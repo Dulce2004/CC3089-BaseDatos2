@@ -56,6 +56,12 @@ CC3089-BaseDatos2/
 │   └── Inciso7/       # Consulta avanzada multi-criterio y su análisis
 │       └── Inciso 7.js
 │
+├── Ejercicio2/       # Carga y Transformación de Datos
+│   ├── peliculas.json            # Datos de películas para importar/transformar
+│   ├── vehiculos.json            # Datos de vehículos en formato JSON
+│   ├── vehiculos_brand_stats.json # Estadísticas por marca de vehículos
+│   └── vehiculos_top_models.csv  # Top modelos de vehículos en formato CSV
+│
 └── README.md
 ```
 

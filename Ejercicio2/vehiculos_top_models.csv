@@ -1,0 +1,21 @@
+_id,brand,model,year,price
+ObjectId(69917b652fc94bec066e1679),Dodge,Grand Caravan,1997,29988.13
+ObjectId(69917b652fc94bec066e161f),Mazda,Protege,1994,29969.05
+ObjectId(69917b652fc94bec066e17c0),Ford,Aerostar,1990,29938.16
+ObjectId(69917b652fc94bec066e1926),Mazda,B-Series,1991,29914.93
+ObjectId(69917b652fc94bec066e15f7),Volkswagen,Cabriolet,1991,29913.7
+ObjectId(69917b652fc94bec066e18c8),Chevrolet,Malibu,1998,29884.29
+ObjectId(69917b652fc94bec066e1764),Lincoln,Continental,1998,29849.33
+ObjectId(69917b652fc94bec066e18b6),Isuzu,Amigo,1999,29842.58
+ObjectId(69917b652fc94bec066e15bd),Toyota,MR2,1994,29821.23
+ObjectId(69917b652fc94bec066e1828),Volkswagen,rio,1998,29782.08
+ObjectId(69917b652fc94bec066e18e0),Saab,9000,1999,29670.84
+ObjectId(69917b652fc94bec066e184e),Pontiac,Grand Am,1994,29599.3
+ObjectId(69917b652fc94bec066e1817),Buick,Riviera,1999,29586.95
+ObjectId(69917b652fc94bec066e16ca),Dodge,Shadow,1992,29549.25
+ObjectId(69917b652fc94bec066e1783),Dodge,Daytona,1992,29542.29
+ObjectId(69917b652fc94bec066e18be),Ford,Bronco,1991,29493.53
+ObjectId(69917b652fc94bec066e190d),Mercury,Tracer,1994,29333.25
+ObjectId(69917b652fc94bec066e187e),Acura,NSX,1995,29319.81
+ObjectId(69917b652fc94bec066e1899),Land Rover,Discovery,1998,29173.14
+ObjectId(69917b652fc94bec066e191f),Plymouth,Neon,1995,29164.44
