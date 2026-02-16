@@ -18,7 +18,8 @@ El laboratorio se divide en dos ejercicios prácticos:
 
 El código está organizado siguiendo la estructura del enunciado del laboratorio:
 
-
+```
+CC3089-BaseDatos2/
 │
 ├── Ejercicio1/
 │   ├── Inciso1/       # Generación de datos aleatorios (100k documentos)
@@ -55,7 +56,8 @@ El código está organizado siguiendo la estructura del enunciado del laboratori
 │   └── Inciso7/       # Consulta avanzada multi-criterio y su análisis
 │       └── Inciso 7.js
 │
-└── README.md          
+└── README.md
+```
 
 ## Instrucciones de Ejecución (Ejercicio 1)
 
